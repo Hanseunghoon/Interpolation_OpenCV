@@ -22,3 +22,7 @@ Bicubic Interpolation
 OpenCV 라이브러리 다운로드 사이트
 
 https://sourceforge.net/projects/opencvlibrary/files/4.1.1/opencv-4.1.1-vc14_vc15.exe/download
+
+튜토리얼 설명
+
+https://blog.naver.com/3246902
