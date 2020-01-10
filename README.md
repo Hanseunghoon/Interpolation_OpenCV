@@ -1,5 +1,5 @@
-# Bicubic-Interpolation
-Bicubic Interpolation
+# Bicubic-Interpolation + Nearest-Neighbor-Interpolation + Bilinear-Interpolation
+ Bicubic-Interpolation + Nearest-Neighbor-Interpolation + Bilinear-Interpolation
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
