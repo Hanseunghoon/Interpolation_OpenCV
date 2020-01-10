@@ -16,3 +16,9 @@ Bicubic Interpolation
 ● 양선형 보간법 : C++ (Visual Studio)
 
 ● 바이큐빅 보간법 : Python (Pycharm)
+
+# 참고
+
+OpenCV 라이브러리 다운로드 사이트
+
+https://sourceforge.net/projects/opencvlibrary/files/4.1.1/opencv-4.1.1-vc14_vc15.exe/download
